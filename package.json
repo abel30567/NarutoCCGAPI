@@ -40,7 +40,7 @@
     "request": "^2.87.0",
     "request-promise": "^4.2.2",
     "slug": "^0.9.3",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "stripe": "^6.2.0",
     "twilio": "^3.19.0",
     "validator": "^7.0.0"
