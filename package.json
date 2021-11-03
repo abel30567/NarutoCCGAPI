@@ -43,7 +43,7 @@
     "socket.io": "^2.2.0",
     "stripe": "^6.2.0",
     "twilio": "^3.19.0",
-    "validator": "^7.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
