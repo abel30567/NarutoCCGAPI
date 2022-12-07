@@ -18,7 +18,7 @@
     "compression": "^1.6.2",
     "cors": "^2.8.4",
     "cross-env": "^5.0.1",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "express-validation": "^1.0.2",
     "firebase-admin": "^8.2.0",
     "helmet": "^3.21.2",
